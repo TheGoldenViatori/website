@@ -11,14 +11,14 @@ h1 {
 }
 
 p:first-of-type:first-letter {
-  font-family: Garamond;
+  font-family: Baskerville;
   font-size: 48px;
   font-style: italic;
   text-align: left;
 }
 
 p {
-  font-family: Garamond;
+  font-family: Baskerville;
   font-size: 24px;
   text-align: left;
   margin-left: 250px;
@@ -27,7 +27,7 @@ p {
 }
 
 p2 {
-  font-family: Garamond;
+  font-family: Baskerville;
   font-size: 24px;
   text-align: middle;
    margin-left: 250px;
@@ -35,7 +35,7 @@ p2 {
 }
 
 p3 {
-  font-family: Garamond;
+  font-family: Baskerville;
   font-size: 24px;
   text-align: middle;	
    margin-left: 250px;
