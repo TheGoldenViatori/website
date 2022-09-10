@@ -18,11 +18,10 @@ font-family: Garamond;
   margin-right: 150px;
 } 
 
-h2::first-letter{
-  font-family: Garamond;
+p:first-of-type:first-letter {
   font-size: 48px;
-  text-align: left; 
-
+  font-style: italic;
+}
 
 }
 
