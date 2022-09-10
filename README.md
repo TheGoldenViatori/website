@@ -2,7 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
-<titlePage</title>
+<title>Page</title>
 </head>
 <body>
 <div class="topnav">
