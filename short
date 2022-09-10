@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title>Main Page</title>
+</head>
+<body>
+ 
+<h1>Shorts</h1>
+ <p><a href="short1.html">Oil & Ice</a></p>
+
+
+
+</body>
+</html>
